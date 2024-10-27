@@ -1168,5 +1168,3 @@ function Library:Init(options)
 
 	return GUI
 end
-
-local lib = Library:Init{}
